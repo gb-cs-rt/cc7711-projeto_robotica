@@ -84,7 +84,10 @@ REVERSE_ANGLE = 1.0             # Recuo após colisão (em radianos de roda)
 ```
 
 ## Componentes do Grupo
-- Cauan Sousa > 24.124.084-5
-- Gustavo Bagio > 24.122.012-8
-- Ruan Turola > 24.122.050-8
+
+> Cauan Sousa - 24.124.084-5
+
+> Gustavo Bagio - 24.122.012-8
+
+> Ruan Turola - 24.122.050-8
 
