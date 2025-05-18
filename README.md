@@ -1,4 +1,7 @@
 # CC7711-projeto_robotica
+
+Link do vídeo: https://www.youtube.com/watch?v=EWpE2qWwyXQ
+
 # Visão Geral
 
 Este projeto consiste em um robô autônomo simulado no **Webots**, utilizando o modelo **e-puck** com controlador em **Python**. O robô apresenta comportamentos de navegação autônoma, detecção de colisões, recuperação de travamentos e supervisão de objetos móveis no ambiente.
