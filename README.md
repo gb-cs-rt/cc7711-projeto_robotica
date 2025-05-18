@@ -4,7 +4,7 @@ Link do vídeo: https://www.youtube.com/watch?v=EWpE2qWwyXQ
 
 # Visão Geral
 
-Este projeto consiste em um robô autônomo simulado no **Webots**, utilizando o modelo **e-puck** com controlador em **Python**. O robô apresenta comportamentos de navegação autônoma, detecção de colisões, recuperação de travamentos e supervisão de objetos móveis no ambiente.
+Este projeto consiste em um robô autônomo simulado no **Webots**, utilizando o modelo **e-puck** com controlador em **Python**. O robô apresenta comportamentos de navegação autônoma, detecção de colisões, recuperação de travamentos e supervisão de objetos móveis no ambiente. O robô deve navegar o ambiente, que possui várias caixas, sendo que somente **uma** das caixas é a caixa leve, ou seja, é a única que pode ser arrastada pelo robô. O objetivo do robô é encontrar e indicar a caixa leve.
 
 ---
 
