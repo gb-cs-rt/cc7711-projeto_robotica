@@ -82,3 +82,8 @@ PUSH_DURATION = 500             # Duração do empurrão (em ms)
 TURN_ANGLE = 2.4                # Ângulo padrão de giro (em radianos)
 REVERSE_ANGLE = 1.0             # Recuo após colisão (em radianos de roda)
 ```
+
+## Componentes do Grupo
+- Cauan Sousa > 24.124.084-5
+- Gustavo Bagio > 24.122.012-8
+- Ruan Turola > 24.122.050-8
